@@ -1,0 +1,57 @@
+body{
+    background-image: url(/images/background/background.webp);
+    background-size: cover;
+}
+
+h1{
+    font-family: "Fredericka the Great";
+}
+
+h2{
+    font-family: "Fredericka the Great";
+}
+
+h3{
+    font-family: "Fredericka the Great";
+}
+
+h4{
+    font-family: "Fredericka the Great";
+}
+
+h5{
+    font-family: "Fredericka the Great";
+}
+
+nav {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+main {
+    height: 100%;
+    overflow-y: hidden;
+}
+
+#board{ 
+    background-image: url(/images/background/corkboard.jpg);
+    border-radius: 5px;
+}
+
+#paper{
+    background-color: cornsilk;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+@media only all and (max-device-width: 991px) {
+    nav {
+        height: auto;
+        overflow-y: scroll;
+    }
+    
+    main {
+        height: 100%;
+        overflow-y: hidden;
+    }
+}
