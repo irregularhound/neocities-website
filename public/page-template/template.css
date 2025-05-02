@@ -1,5 +1,5 @@
 body{
-    background-image: url(/images/background/background.webp);
+    background-image: url(/https://bibliohound.neocities.org/images/background/background.webp);
     background-size: cover;
 }
 
@@ -34,7 +34,7 @@ main {
 }
 
 #board{ 
-    background-image: url(/images/background/corkboard.jpg);
+    background-image: url(https://bibliohound.neocities.org/images/background/corkboard.jpg);
     border-radius: 5px;
 }
 
