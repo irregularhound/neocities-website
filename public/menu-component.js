@@ -56,15 +56,16 @@ class MenuComponent extends HTMLElement {
                 }
             </style>
             <div class="image-links">
-                <a href="/"><img src="https://bibliohound.neocities.org/images/sidebar/home.png" target="_top" alt="Home"></a>
-                <a href="/about"><img src="https://bibliohound.neocities.org/images/sidebar/about.png" alt="About Me"></a>
-                <a href="/stories"><img src="https://bibliohound.neocities.org/images/sidebar/stories.png" target="_top" alt="Stories"></a>
-                <a href="/characters"><img src="https://bibliohound.neocities.org/images/sidebar/characters.png" target="_top" alt="Characters"></a>
-                <a href="/shrines"><img src="https://bibliohound.neocities.org/images/sidebar/shrines.png" target="_top" alt="Shrines"></a>
-                <a href="/graphics"><img src="https://bibliohound.neocities.org/images/sidebar/graphics.png" target="_top" alt="Graphics"></a>
-                <a href="/entertainment"><img src="https://bibliohound.neocities.org/images/sidebar/entertainment.png" target="_top" alt="Fun Stuff"></a>
-                <a href="/webrings"><img src="https://bibliohound.neocities.org/images/sidebar/webrings.png" target="_top" alt="Webrings"></a>
-                <a href="/websites"><img src="https://bibliohound.neocities.org/images/sidebar/websites.png" target="_top" alt="Other Websites"></a>
+                <a href="/"><img src="/images/navbar/home.png" target="_top" alt="Home"></a>
+                <a href="/about"><img src="/images/navbar/about.png" alt="About Me"></a>
+                <a href="/stories"><img src="/images/navbar/stories.png" target="_top" alt="Stories"></a>
+                <a href="/characters"><img src="/images/navbar/characters.png" target="_top" alt="Characters"></a>
+                <a href="/shrines"><img src="/images/navbar/shrines.png" target="_top" alt="Shrines"></a>
+                <a href="/journal"><img src="/images/navbar/journal.png" target="_top" alt="Journal"></a>
+                <a href="/graphics"><img src="/images/navbar/graphics.png" target="_top" alt="Graphics"></a>
+                <a href="/entertainment"><img src="/images/navbar/entertainment.png" target="_top" alt="Fun Stuff"></a>
+                <a href="/webrings"><img src="/images/navbar/webrings.png" target="_top" alt="Webrings"></a>
+                <a href="/websites"><img src="/images/navbar/websites.png" target="_top" alt="Other Websites"></a>
             </div>
         `;
 
