@@ -34,9 +34,14 @@
 /* Goodies */
 
 #extra-content {
-    height: 40vh;
+    height: 50vh;
 }
 
-#goodies {
+#extra-content .row {
+    height: 100%;
+}
+
+.row #goodies {
     background-color: #b3987f;
+    height: 100%;
 }
