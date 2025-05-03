@@ -28,3 +28,15 @@
 #buttons-site-info li {
     display: inline;
 }
+
+/* Extra Content */
+
+/* Goodies */
+
+#extra-content {
+    height: 40vh;
+}
+
+#goodies {
+    background-color: #b3987f;
+}
