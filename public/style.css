@@ -15,8 +15,16 @@
 
 /* Main Content */
 
+/* Title */
+
 @media only all and (max-device-width: 991px) {
     h1 {
     font-size: 1.25em;
 }
+}
+
+/* Buttons and Site Info */
+
+#buttons-site-info li {
+    display: inline
 }
