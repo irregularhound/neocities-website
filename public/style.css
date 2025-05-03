@@ -13,8 +13,10 @@
     object-position: 100% 22%;
 }
 
+/* Main Content */
+
 @media only all and (max-device-width: 991px) {
-    #hero {
-        height: 15%;
-    }
+    h1 {
+    font-size: 1.25em;
+}
 }
