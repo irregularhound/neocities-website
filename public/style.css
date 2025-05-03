@@ -39,6 +39,12 @@
     font-family: "Fredericka the Great";
 }
 
+@media only all and (min-device-width: 992px) {
+    #extra-links li a {
+        font-size: 1.25em;
+    }
+}
+
 /* Extra Content */
 
 /* Goodies */
@@ -55,3 +61,13 @@
     background-color: #b3987f;
     height: 100%;
 }
+
+#goodies h2 {
+    font-size: 1.25em;
+}
+
+#guestbook a {
+    font-family: "Fredericka the Great";
+    font-size: 1.5em;
+}
+
