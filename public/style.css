@@ -29,6 +29,16 @@
     display: inline;
 }
 
+/* Extra Links */
+
+#extra-links li {
+    display: inline;
+}
+
+#extra-links li a {
+    font-family: "Fredericka the Great";
+}
+
 /* Extra Content */
 
 /* Goodies */
