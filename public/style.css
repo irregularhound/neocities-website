@@ -47,15 +47,21 @@
 
 /* Extra Content */
 
-/* Goodies */
-
 #extra-content {
     height: 55vh;
+}
+
+@media only all and (max-device-width: 991px) {
+    #extra-content {
+    height: 57vh;
+}
 }
 
 #extra-content .row {
     height: 100%;
 }
+
+/* Goodies */
 
 .row #goodies {
     background-color: #b3987f;
