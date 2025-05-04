@@ -2,7 +2,7 @@
 
 A repository for my website.
 
-This is a recreation of my old repository. Credit to [Bret Comnes](https://github.com/bcomnes) for fixing the workflow file in my previous repository.
+This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/bcomnes) for fixing the workflow file in my previous repository.
 
 ## To-Do List:
 
