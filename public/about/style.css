@@ -33,12 +33,16 @@ main p strong {
 
 /* Kins */
 
-#kins h1 {
+.kins h1 {
     font-size: 1.5em;
 }
 
 .kins-grid-item {
     background-color: white;
+}
+
+.kins-grid-item h1 {
+    font-size: 1.25em;
 }
 
 @media only all and (max-device-width: 991px) {
