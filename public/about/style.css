@@ -31,6 +31,18 @@ main p strong {
     }
 }
 
+/* Kins */
+
+#kins h1 {
+    font-size: 1.5em;
+}
+
+@media only all and (max-device-width: 991px) {
+    #kins h1 {
+        font-size: 1.25em;
+    }
+}
+
 /* Links */
 
 #links p {
