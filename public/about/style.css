@@ -1,16 +1,34 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
 
-/* Hero */
-
-#graphics-hero {
-    background-color: white;
-}
-
 /* Main Content */
 
 main p strong {
     font-family: "Fredericka the Great";
     font-size: 1em;
+}
+
+/* Graphics */
+
+#graphics h1 {
+    font-size: 1.5em;
+}
+
+#graphics {
+    background-color: white;
+}
+
+#userboxes img {
+    width: 40%;
+}
+
+@media only all and (max-device-width: 991px) {
+    #graphics h1 {
+        font-size: 1.25em;
+    }
+
+    #userboxes img {
+        width: 70%;
+    }
 }
 
 /* Links */
