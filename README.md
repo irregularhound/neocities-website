@@ -2,8 +2,6 @@
 
 A repository for my website.
 
----
-
 ## To-Do List:
 
 + Create Shrine Page for Chloe
