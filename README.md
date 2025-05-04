@@ -16,4 +16,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 
 + 2.0.1 - Created beta version of my website. Based on my alpha website layout. (3/2/25)
 + 2.0.2 - Created the About page. (3/4/25)
-+ 2.0.3 - Created Stories page.
++ 2.0.3 - Created Stories page. (3/4/25)
