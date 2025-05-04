@@ -8,6 +8,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 
 + Create Shrine Page for Chloe
 + Create Shrine Page for The Sims 2
++ Create Shrine Page for Video Game Consoles
 
 ## Changelog:
 
