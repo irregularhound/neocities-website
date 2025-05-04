@@ -35,7 +35,6 @@ nav {
 main {
     height: 95%;
     overflow-y: hidden;
-    overflow-x: hidden;
 }
 
 #board{ 
@@ -51,11 +50,11 @@ main {
 
 @media only all and (max-device-width: 991px) {
     nav {
-        overflow-y: auto;
+        height: auto;
+        overflow-y: scroll;
     }
     
     main {
-        height: 85%;
         overflow-y: auto;
     }
 }
