@@ -1,5 +1,14 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
 
+.container-xxl {
+    overflow-y: hidden;
+}
+
+main {
+    height: 95%;
+    overflow-y: hidden;
+}
+
 /* Header Image */
 
 #hero {

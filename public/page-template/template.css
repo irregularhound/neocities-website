@@ -23,13 +23,17 @@ h5{
     font-family: "Fredericka the Great";
 }
 
+.container-xxl {
+    overflow-y: hidden;
+}
+
 nav {
     height: 100%;
     overflow-y: scroll;
 }
 
 main {
-    height: 100%;
+    height: 95%;
     overflow-y: hidden;
 }
 
