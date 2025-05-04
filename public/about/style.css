@@ -19,3 +19,11 @@ main p strong {
     font-family: "Fredericka the Great";
     font-size: 1.25em;
 }
+
+@media only all and (max-device-width: 991px) {
+    #links p {
+        font-family: "Fredericka the Great";
+        font-size: 1em;
+    }
+}
+
