@@ -2,6 +2,8 @@
 
 A repository for my website.
 
+This is a recreation of my old repository. Credit to [https://github.com/bcomnes](Bret Comnes) for fixing the workflow file in my previous repository.
+
 ## To-Do List:
 
 + Create Shrine Page for Chloe
