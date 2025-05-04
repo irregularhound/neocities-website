@@ -1,4 +1,4 @@
-@import url(/page-template/template.css);
+@import url(https://bibliohound.neocities.org/page-template/template.css);
 
 /* Header Image */
 
@@ -47,19 +47,7 @@
 
 /* Extra Content */
 
-#extra-content {
-    height: 38vh;
-}
 
-@media only all and (max-device-width: 991px) {
-    #extra-content {
-    height: 57vh;
-}
-}
-
-#extra-content .row {
-    height: 100%;
-}
 
 /* Goodies */
 
@@ -78,6 +66,5 @@
 }
 
 #guestbook img {
-    height: 40%;
-    width: auto;
+    width: 30%
 }
