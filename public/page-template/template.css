@@ -33,7 +33,7 @@ nav {
 }
 
 main {
-    height: 97%;
+    height: 96%;
     overflow-y: hidden;
 }
 
@@ -56,6 +56,5 @@ main {
     
     main {
         height: 85%;
-        overflow-y: hidden;
     }
 }
