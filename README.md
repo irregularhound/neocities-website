@@ -13,3 +13,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 ## Changelog:
 
 + 2.0.1 - Created beta version of my website. Based on my alpha website layout. (3/2/25)
++ 2.0.2 - Created "About" page of my website.(3/4/25)
