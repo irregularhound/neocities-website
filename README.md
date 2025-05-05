@@ -10,7 +10,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + + Chloe
 + + The Sims 2
 + + Video Game Consoles
-+ Rearrange "Graphics" and "Literally Me" Section on About page
++ Swap "Graphics" and "Literally Me" sections on About page
 + Alt alt attribute to images on Characters and Stories
 + Readjust margining on "Regular Characters" grid on Characters page
 + Re-download images into new repository
