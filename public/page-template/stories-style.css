@@ -1,1 +1,37 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
+
+/* Featured Image */
+
+#hero {
+    height: 20%;
+}
+
+#hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Description */
+
+#quote {
+    font-family: "Fredericka the Great";
+    font-size: 1.25em;
+}
+
+/* Characters */
+
+#character-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.character-grid-item {
+    height: 20vh;
+}
+
+#description-box {
+    background-color: white;
+    overflow-y: scroll;
+}
