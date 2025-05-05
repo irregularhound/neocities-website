@@ -15,11 +15,6 @@
 
 /* Characters */
 
-.character-item {
-    height: 200px;
-}
-
 .description {
     background-color: white;
-    overflow-y: scroll;
 }
