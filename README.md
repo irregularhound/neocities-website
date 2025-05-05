@@ -14,7 +14,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add alt attribute to images on Characters and Stories
 + Readjust margining on "Regular Characters" grid on Characters page
 + Re-download images into new repository
-+ Remove "Fun Stuff" page
++ ~~Remove "Fun Stuff" page~~
 
 ## Changelog:
 
