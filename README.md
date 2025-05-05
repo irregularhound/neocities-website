@@ -23,3 +23,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.3 - Created Stories page. (3/4/25)
 + 2.0.4 - Created Characters page. (3/4/25)
 + 2.0.5 - Created Webrings page. (3/5/25)
++ 2.0.6 - Created Websites page. (3/5/25)
