@@ -15,6 +15,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Redo code for grid items on Characters page
 + Re-download images into new repository
 + ~~Remove "Fun Stuff" page~~
++ Create tablet breakpoint design for the website
 
 ## Changelog:
 
