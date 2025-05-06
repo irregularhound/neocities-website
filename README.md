@@ -7,9 +7,10 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 ## To-Do List:
 
 + Create Shrine Pages
-+ + Chloe
-+ + The Sims 2
-+ + Video Game Consoles
+  + Chloe
+  + The Sims 2
+  + Video Game Consoles
+  + Littlest Pet Shop (Toys)
 + Swap "Graphics" and "Literally Me" sections on About page
 + Add alt attribute to images on Characters and Stories
 + Add credit title attributes to images on individual Stories pages
