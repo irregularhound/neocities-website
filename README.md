@@ -15,7 +15,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add alt attribute to images on Characters and Stories
 + Add credit title attributes to images on individual Stories pages
 + ~~Redo code for grid items on Characters page~~
-+ Re-download images into new repository
++ ~~Re-download images into new repository~~
 + ~~Remove "Fun Stuff" page~~
 + Create tablet breakpoint design for the website
 
