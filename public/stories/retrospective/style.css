@@ -3,3 +3,7 @@
 #hero img {
     object-position: 100% 30%;
 }
+
+#excerpts hr {
+    border: 2.5px dotted gray;
+}
