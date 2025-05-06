@@ -12,7 +12,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + + Video Game Consoles
 + Swap "Graphics" and "Literally Me" sections on About page
 + Add alt attribute to images on Characters and Stories
-+ Add credit title attributes to images on Stories pages
++ Add credit title attributes to images on individual Stories pages
 + Redo code for grid items on Characters page
 + Re-download images into new repository
 + ~~Remove "Fun Stuff" page~~
