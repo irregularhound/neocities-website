@@ -18,6 +18,33 @@
     }  
 }
 
+.tape {
+    top: 1.25em;
+}
+
+.tape img {
+    width: 30%;
+}
+
+@media only all and (max-device-width: 767px) {
+    .tape img {
+        width: 35%;
+    }
+    .tape {
+        top: 0.75em;
+    }
+}
+
+@media only all and (min-device-width: 768px) and (max-device-width: 991px) {
+    .tape img {
+        width: 25%;
+    }
+    .tape {
+        top: 0.75em;
+        
+    }
+}
+
 #description {
     background-color: white;
     border-radius: 3px;
