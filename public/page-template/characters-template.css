@@ -15,15 +15,16 @@
 @media only all and (min-device-width: 768px) {
     #image img {
         transform: rotate(349deg);
+        height: 90%;
     }  
 }
 
 .tape {
-    top: 1.25em;
+    top: 0.85em;
 }
 
 .tape img {
-    width: 30%;
+    width: 25%;
 }
 
 @media only all and (max-device-width: 767px) {
