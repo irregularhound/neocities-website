@@ -1,1 +1,25 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
+
+/* Featured Image */
+
+#hero {
+    height: 20%;
+}
+
+#hero img {
+    object-position: 100% 0% /* insert custom value here */;
+}
+
+/* Basic Info */
+
+@media only all and (min-device-width: 768px) {
+    #image img {
+        transform: rotate(349deg);
+    }  
+}
+
+#description {
+    background-color: white;
+    border-radius: 3px;
+    overflow-y: auto;
+}
