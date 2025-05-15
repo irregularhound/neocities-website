@@ -29,3 +29,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.6 - Created Websites page. (3/5/25)
 + 2.0.7 - Created Stories template page. (3/5/25)
 + 2.0.8 - Created Characters template page. (3/7/25)
++ 2.0.9 - Created character pages. (3/15/25)
