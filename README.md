@@ -18,7 +18,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Re-download images into new repository~~
 + ~~Remove "Fun Stuff" page~~
 + Create tablet breakpoint design for the website
-+ Create polaroid assests for design OCs 
++ ~~Create polaroid assests for design OCs~~
 
 ## Changelog:
 
