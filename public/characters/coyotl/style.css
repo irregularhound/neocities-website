@@ -1,0 +1,11 @@
+@import url(https://bibliohound.neocities.org/page-template/characters-template.css);
+
+#hero img {
+    object-position: 100% 75% /* insert custom value here */;
+}
+
+@media only all and (max-device-width: 768px) {
+    #hero img {
+    object-position: 100% 55% /* insert custom value here */;
+}
+}
