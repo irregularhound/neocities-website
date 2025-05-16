@@ -26,6 +26,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add mobile breakpoint for Species information on Honey's page
 + Remove Journal page
 + Add gap between stories on mobile on the Desires of Her Heart landing page
++ Add a top gap to the title header of About Me page on mobile
 
 ## Changelog:
 
