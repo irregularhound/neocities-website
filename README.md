@@ -24,6 +24,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Fix margining issues with Toffee's info section on mobile
 + Change "Spotify Playlist" to "Playlist" on Cóyotl's page
 + Add mobile breakpoint for Species information on Honey's page
++ Remove Journal page
 
 ## Changelog:
 
