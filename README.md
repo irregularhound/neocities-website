@@ -20,15 +20,15 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Create tablet breakpoint design for the website
 + ~~Create polaroid assests for design OCs~~
 + Create Graphics landing page
-+ Move Wardah to Designs
-+ Fix margining issues with Toffee's info section on mobile
-+ Change "Spotify Playlist" to "Playlist" on Cóyotl's page
-+ Add mobile breakpoint for Species information on Honey's page
++ ~~Move Wardah to Designs~~
++ ~~Fix margining issues with Toffee's info section on mobile~~
++ ~~Change "Spotify Playlist" to "Playlist" on Cóyotl's page~~
++ ~~Add mobile breakpoint for Species information on Honey's page~~
 + Remove Journal page
-+ Add gap between stories on mobile on the Desires of Her Heart landing page
-+ Add a top gap to the title header of About Me page on mobile
-+ Change the font size in the Extra Links section so that it's centered on mobile
-+ Change Millie's name to Josie/Josephine
++ ~~Add gap between stories on mobile on the Desires of Her Heart landing page~~
++ ~~Add a top gap to the title header of About Me page on mobile~~
++ ~~Change the font size in the Extra Links section so that it's centered on mobile~~
++ ~~Change Millie's name to Josie/Josephine~~
 
 ## Changelog:
 
