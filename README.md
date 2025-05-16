@@ -27,6 +27,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Remove Journal page
 + Add gap between stories on mobile on the Desires of Her Heart landing page
 + Add a top gap to the title header of About Me page on mobile
++ Change the font size in the Extra Links section so that it's centered on mobile
 
 ## Changelog:
 
