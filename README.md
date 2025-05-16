@@ -21,6 +21,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Create polaroid assests for design OCs~~
 + Create Graphics landing page
 + Move Wardah to Designs
++ Fix margining issues with Toffee's info section on mobile
 
 ## Changelog:
 
