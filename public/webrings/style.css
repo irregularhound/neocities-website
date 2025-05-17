@@ -8,8 +8,12 @@
   height: 187px;
 }
 
+#HBRmain {
+  text-align: center;
+}
+
 .adlib-links {
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .adlib-banner {
@@ -52,6 +56,3 @@
     text-align: center;
 }
 
-#HBRmain {
-  text-align: center;
-}
