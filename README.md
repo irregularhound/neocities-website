@@ -13,7 +13,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
   + Video Game Consoles
   + Littlest Pet Shop (Toys)
 + ~~Swap "Graphics" and "Literally Me" sections on About page~~
-+ ~~Add alt attribute to images on Characters~
++ ~~Add alt attribute to images on Characters~~
 + Add alt attribute to images on Stories
 + Add alt attribute to images on individual character pages
 + Add credit title attributes to images on individual Stories pages
