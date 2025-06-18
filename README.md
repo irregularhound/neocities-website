@@ -6,6 +6,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 
 ## To-Do List:
 
++ Create Shrines landing page
 + Create Shrine Pages
   + Chloe
   + The Sims 2
@@ -31,6 +32,13 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Change Millie's name to Josie/Josephine~~
 + Create Sitemap page
 + Remove "The Wellards" on Stories
++ Fill out "The First Devotion"
++ Fill out description for Ronnie and Meta on "Retrospective"
++ Complete Sasha's page
++ Add Gallery subpages to characters (Except for designs)
++ Add self-insert section on characters landing page
++ Add fandom OCs section
++ Add writing portfolio section
 
 ## Changelog:
 
