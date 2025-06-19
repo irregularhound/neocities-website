@@ -32,7 +32,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Add a top gap to the title header of About Me page on mobile~~
 + ~~Change the font size in the Extra Links section so that it's centered on mobile~~
 + ~~Change Millie's name to Josie/Josephine~~
-+ Create Sitemap page
++ ~~Create Sitemap page~~
 + ~~Remove "The Wellards" on Stories~~
 + Fill out "The First Devotion"
 + Fill out description for Ronnie and Meta on "Retrospective"
