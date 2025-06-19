@@ -6,7 +6,8 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 
 ## To-Do List:
 
-+ Create Shrines landing page
++ ~~Create Shrines landing page~~
++ Add image to shrine entries
 + Create Shrine Pages
   + Chloe
   + The Sims 2
