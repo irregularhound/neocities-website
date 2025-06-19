@@ -32,7 +32,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Add a top gap to the title header of About Me page on mobile~~
 + ~~Change the font size in the Extra Links section so that it's centered on mobile~~
 + ~~Change Millie's name to Josie/Josephine~~
-+ Create Sitemap page
++ ~~Create Sitemap page~~
 + ~~Remove "The Wellards" on Stories~~
 + Fill out "The First Devotion"
 + Fill out description for Ronnie and Meta on "Retrospective"
@@ -55,3 +55,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.7 - Created Stories template page. (3/5/25)
 + 2.0.8 - Created Characters template page. (3/7/25)
 + 2.0.9 - Created character pages. (3/15/25)
++ 2.0.10 - Created Site Map page.
