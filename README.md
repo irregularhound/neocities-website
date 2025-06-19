@@ -38,9 +38,11 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Fill out description for Ronnie and Meta on "Retrospective"
 + Complete Sasha's page
 + Add Gallery subpages to characters (Except for designs)
-+ Add self-insert section on characters landing page
-+ Add fandom OCs section
-+ Add writing portfolio section
++ ~~Add self-insert section on characters landing page~~
++ ~~Add fandom OCs section~~
++ Add images to fandom OCs section
++ ~~Add writing portfolio section~~
++ Create landing page for writing portfolio page
 
 ## Changelog:
 
