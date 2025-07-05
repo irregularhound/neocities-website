@@ -23,7 +23,9 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Remove "Fun Stuff" page~~
 + Create tablet breakpoint design for the website
 + ~~Create polaroid assests for design OCs~~
-+ Create Graphics landing page
++ ~~Create Graphics page~~
+ + Add all images in image folder to Graphics page
+ + Add "jump to" sections of each type of image asset
 + ~~Move Wardah to Designs~~
 + ~~Fix margining issues with Toffee's info section on mobile~~
 + ~~Change "Spotify Playlist" to "Playlist" on Cóyotl's page~~
@@ -79,3 +81,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.8 - Created Characters template page. (3/7/25)
 + 2.0.9 - Created character pages. (3/15/25)
 + 2.0.10 - Created Site Map page. (6/19/25)
++ 2.0.11 - Created Graphics Page. (7/5/25)
