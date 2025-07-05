@@ -3,3 +3,9 @@
 #hero img {
     object-position: 100% 0% /* insert custom value here */;
 }
+
+#pagedoll img {
+    bottom: 0;
+    right: 0;
+    width: 8.5%
+}
