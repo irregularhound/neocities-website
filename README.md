@@ -13,6 +13,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
   + The Sims 2
   + Video Game Consoles
   + Littlest Pet Shop (Toys)
+  + Tomodachi Life
 + ~~Swap "Graphics" and "Literally Me" sections on About page~~
 + ~~Add alt attribute to images on Characters~~
 + Add alt attribute to images on Stories
