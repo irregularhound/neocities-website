@@ -1,1 +1,33 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
+
+#links h2 {
+    font-size: 1.5em;
+}
+
+#links hr {
+    border: 2.5px dotted gray;
+}
+
+/* ==== Images ===== */
+
+/* Blinkies */
+
+.blinkies img {
+    width: 150px;
+    height: 20px;
+}
+
+
+/* 88x31 Buttons */
+
+.buttons img {
+    width: 88px;
+    height: 31px;
+}
+
+/* 88x31 Buttons */
+
+.userboxes img {
+    width: 240px;
+    height: 48px;
+}
