@@ -15,9 +15,9 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
   + Tomodachi Life
 + ~~Swap "Graphics" and "Literally Me" sections on About page~~
 + ~~Add alt attribute to images on Characters~~
-+ Add alt attribute to images on Stories
-+ Add alt attribute to images on individual character pages
-+ Add credit title attributes to images on individual Stories pages
++ ~~Add alt attribute to images on Stories~~
++ ~~Add alt attribute to images on individual character pages~~
++ ~~Add credit title attributes to images on individual Stories pages~~
 + ~~Redo code for grid items on Characters page~~
 + ~~Re-download images into new repository~~
 + ~~Remove "Fun Stuff" page~~
