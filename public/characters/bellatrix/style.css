@@ -5,7 +5,7 @@
 }
 
 #pagedoll img {
-    bottom: 0;
+    bottom: 1em;
     right: 0;
     width: 8.5%
 }
