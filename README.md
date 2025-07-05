@@ -36,14 +36,36 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Create Sitemap page~~
 + ~~Remove "The Wellards" on Stories~~
 + Fill out "The First Devotion"
-+ Fill out description for Ronnie and Meta on "Retrospective"
-+ Complete Sasha's page
++ ~~Fill out description for Ronnie on "Retrospective"~~
++ Fill out description for Meta on "Retrospective"
++ Complete Sashaverse's page
 + Add Gallery subpages to characters (Except for designs)
 + ~~Add self-insert section on characters landing page~~
 + ~~Add fandom OCs section~~
 + Add images to fandom OCs section
 + ~~Add writing portfolio section~~
 + Create landing page for writing portfolio page
++ Create pages for:
+  + Coffee Spice
+  + Mouseblaze
+  + Shiori
+  + Solange
+  + Ayanna
+  + James
+  + Otto
+  + Raymond
+  + Sadako
+  + Vivian
+  + Zach
+  + Atlas
+  + Florence
+  + Margarita
+  + Maristela
+  + Murasaki
+  + Musoke
+  + Persephone
+  + Ramone
+  + Wardah
 
 ## Changelog:
 
