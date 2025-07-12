@@ -65,12 +65,12 @@
 }
 
 #statuscafe {
-    padding: 0 .5em;
+    padding: 0 0.5em;
     background-image: url(https://bibliohound.neocities.org/images/home/statuscafe-background.jpg);
     border: 1px solid midnightblue;
 }
 #statuscafe-username {
-    margin: .5em 0;
+    margin: 0.5em 0;
 }
 #statuscafe-content {
     margin: 0 1em 1em 1em;
