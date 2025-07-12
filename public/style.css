@@ -69,3 +69,10 @@
     background-image: url(https://bibliohound.neocities.org/images/home/statuscafe-background.jpg);
     border: 1px solid rgb(85, 54, 26)
 }
+
+#statuscafe-username {
+    margin: .5em 0
+}
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
