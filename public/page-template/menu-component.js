@@ -60,6 +60,7 @@ class MenuComponent extends HTMLElement {
                 <a href="/about"><img src="/images/navbar/about.png" alt="About Me"></a>
                 <a href="/projects"><img src="/images/navbar/stories.png" target="_top" alt="Stories"></a>
                 <a href="/characters"><img src="/images/navbar/characters.png" target="_top" alt="Characters"></a>
+                <a href="/art"><img src="/images/navbar/art.png" target="_top" alt="Art Gallery"></a>
                 <a href="/prose"><img src="/images/navbar/prose.png" target="_top" alt="Writing Portfolio"></a>
                 <a href="/shrines"><img src="/images/navbar/shrines.png" target="_top" alt="Shrines"></a>
                 <a href="/graphics"><img src="/images/navbar/graphics.png" target="_top" alt="Graphics"></a>
