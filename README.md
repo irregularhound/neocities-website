@@ -69,7 +69,8 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
   + Ramone
   + Wardah
 + Add "Art Gallery" page
-+ + Add one for all years 2009 - 2025
+  + Add page for all years 2009 - 2025
++ Add Soundtrack Explanation page for Retrospective
 
 ## Changelog:
 
