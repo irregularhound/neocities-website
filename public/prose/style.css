@@ -1,1 +1,9 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
+
+#links h2 {
+    font-size: 1.5em;
+}
+
+#links hr {
+    border: 2.5px dotted gray;
+}

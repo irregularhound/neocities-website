@@ -1,5 +1,11 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
 
+/* Header */
+
+.disclaimer {
+    font-size: 0.85em;
+}
+
 /* Grid */
 
 .grid-item {

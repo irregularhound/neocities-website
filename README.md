@@ -13,17 +13,20 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
   + The Sims 2
   + Video Game Consoles
   + Littlest Pet Shop (Toys)
+  + Tomodachi Life
 + ~~Swap "Graphics" and "Literally Me" sections on About page~~
 + ~~Add alt attribute to images on Characters~~
-+ Add alt attribute to images on Stories
-+ Add alt attribute to images on individual character pages
-+ Add credit title attributes to images on individual Stories pages
++ ~~Add alt attribute to images on Stories~~
++ ~~Add alt attribute to images on individual character pages~~
++ ~~Add credit title attributes to images on individual Stories pages~~
 + ~~Redo code for grid items on Characters page~~
 + ~~Re-download images into new repository~~
 + ~~Remove "Fun Stuff" page~~
 + Create tablet breakpoint design for the website
 + ~~Create polaroid assests for design OCs~~
-+ Create Graphics landing page
++ ~~Create Graphics page~~
+ + Add all images in image folder to Graphics page
+ + Add "jump to" sections of each type of image asset
 + ~~Move Wardah to Designs~~
 + ~~Fix margining issues with Toffee's info section on mobile~~
 + ~~Change "Spotify Playlist" to "Playlist" on Cóyotl's page~~
@@ -36,14 +39,39 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Create Sitemap page~~
 + ~~Remove "The Wellards" on Stories~~
 + Fill out "The First Devotion"
-+ Fill out description for Ronnie and Meta on "Retrospective"
-+ Complete Sasha's page
++ ~~Fill out description for Ronnie on "Retrospective"~~
++ Fill out description for Meta on "Retrospective"
++ Complete Sashaverse's page
 + Add Gallery subpages to characters (Except for designs)
 + ~~Add self-insert section on characters landing page~~
 + ~~Add fandom OCs section~~
 + Add images to fandom OCs section
 + ~~Add writing portfolio section~~
 + Create landing page for writing portfolio page
++ Create pages for:
+  + Coffee Spice
+  + Mouseblaze
+  + Shiori
+  + Solange
+  + Ayanna
+  + James
+  + Otto
+  + Raymond
+  + Sadako
+  + Vivian
+  + Zach
+  + Atlas
+  + Florence
+  + Margarita
+  + Maristela
+  + Murasaki
+  + Musoke
+  + Persephone
+  + Ramone
+  + Wardah
++ Add "Art Gallery" page
+  + Add page for all years 2009 - 2025
++ Add Soundtrack Explanation page for Retrospective
 
 ## Changelog:
 
@@ -57,3 +85,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.8 - Created Characters template page. (3/7/25)
 + 2.0.9 - Created character pages. (3/15/25)
 + 2.0.10 - Created Site Map page. (6/19/25)
++ 2.0.11 - Created Graphics Page. (7/5/25)
