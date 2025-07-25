@@ -71,6 +71,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add "Art Gallery" page
   + Add page for all years 2009 - 2025
 + Add Soundtrack Explanation page for Retrospective
++ Add collapsable and "Back to Top" elements to Graphics page
 
 ## Changelog:
 
