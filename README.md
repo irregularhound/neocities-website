@@ -46,7 +46,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Add fandom OCs section~~
 + Add images to fandom OCs section
 + ~~Add writing portfolio section~~
-+ Create landing page for writing portfolio page
++ ~~Create landing page for writing portfolio page~~
 + Create pages for:
   + Coffee Spice
   + Mouseblaze
