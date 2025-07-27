@@ -87,3 +87,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.9 - Created character pages. (3/15/25)
 + 2.0.10 - Created Site Map page. (6/19/25)
 + 2.0.11 - Created Graphics Page. (7/5/25)
++ 2.0.12 - Cteared Art and Writing Page. (7/27/25)
