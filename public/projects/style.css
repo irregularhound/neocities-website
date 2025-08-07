@@ -19,7 +19,7 @@
 }
 
 .divider img {
-    width: 5%;
+    width: 2.25em;
 }
 
 .warning img {
@@ -28,9 +28,9 @@
 
 @media all and (max-width: 992px) {
     .divider img {
-        width: 7%;
+        width: 2.5em;
     }
     .warning img {
-        width: 10%;
+        width: 3em;
     }
 }
