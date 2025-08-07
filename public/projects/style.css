@@ -26,11 +26,10 @@
     width: 5%;
 }
 
-@media all (max-width: 992px) {
+@media all and (max-width: 992px) {
     .divider img {
-        width: 10%;
+        width: 7%;
     }
-
     .warning img {
         width: 10%;
     }
