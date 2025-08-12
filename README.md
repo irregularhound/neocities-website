@@ -47,7 +47,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Add fandom OCs section~~
 + Add images to fandom OCs section
 + ~~Add writing portfolio section~~
-+ Create landing page for writing portfolio page
++ ~~Create landing page for writing portfolio page~~
 + Create pages for:
   + Coffee Spice
   + Mouseblaze
@@ -69,9 +69,11 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
   + Persephone
   + Ramone
   + Wardah
-+ Add "Art Gallery" page
++ ~~Add "Art Gallery" page~~
   + Add page for all years 2009 - 2025
 + Add Soundtrack Explanation page for Retrospective
++ Add collapsable and "Back to Top" elements to Graphics page
++ Add Aesthetics section to character pages
 
 ## Changelog:
 
@@ -86,3 +88,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.9 - Created character pages. (3/15/25)
 + 2.0.10 - Created Site Map page. (6/19/25)
 + 2.0.11 - Created Graphics Page. (7/5/25)
++ 2.0.12 - Cteared Art and Writing Page. (7/27/25)

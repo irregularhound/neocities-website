@@ -12,8 +12,25 @@
     background-color: white;
 }
 
-.btn:disabled, .btn-primary {
+.btn:disabled,
+.btn-primary {
     background-color: #ad603a !important;
     border-color: #ad603a !important
 }
 
+.divider img {
+    width: 2em;
+}
+
+.warning img {
+    width: 5%;
+}
+
+@media all and (max-width: 992px) {
+    .divider img {
+        width: 1.5em;
+    }
+    .warning img {
+        width: 1.75em;
+    }
+}
