@@ -14,6 +14,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
   + Video Game Consoles
   + Littlest Pet Shop (Toys)
   + Tomodachi Life
+  + Spore
 + ~~Swap "Graphics" and "Literally Me" sections on About page~~
 + ~~Add alt attribute to images on Characters~~
 + ~~Add alt attribute to images on Stories~~
