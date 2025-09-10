@@ -27,7 +27,6 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Create polaroid assests for design OCs~~
 + ~~Create Graphics page~~
  + Add all images in image folder to Graphics page
- + Add "jump to" sections of each type of image asset
 + ~~Move Wardah to Designs~~
 + ~~Fix margining issues with Toffee's info section on mobile~~
 + ~~Change "Spotify Playlist" to "Playlist" on Cóyotl's page~~
@@ -76,6 +75,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add collapsable and "Back to Top" elements to Graphics page
 + Add Aesthetics section to character pages
 + ~~Add captions and navigation buttons to lightbox in art galleries~~
++ Style collapsable buttons in Graphics page
 
 ## Changelog:
 
