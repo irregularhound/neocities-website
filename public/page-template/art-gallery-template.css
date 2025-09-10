@@ -11,26 +11,44 @@
 #gallery img {
     cursor: pointer;
 }
-
-#lightbox img {
-    max-width: 90%;
-    max-height: 90%;
-    border-radius: 3px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.8);
-}
-
 #lightbox {
     position: fixed;
-    z-index: 1;
+    z-index: 1000;
     width: 100%;
     height: 100%;
     top: 0;
+    left: 0;
     background-color: rgba(0, 0, 0, 0.75);
     display: none;
+    flex-direction: column; /* stack image + caption vertically */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 #lightbox.active {
     display: flex;
-    justify-content: center;
-    align-items: center;
+}
+
+#lightbox img {
+    max-width: 90%;
+    max-height: 70%; /* leave space for caption */
+    border-radius: 3px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.8);
+}
+
+/* Hide captions in the gallery */
+#gallery .caption {
+  display: none;
+}
+
+/* Show captions only in the lightbox */
+#lightbox .caption {
+  margin-top: 15px;
+  color: #fff;
+  font-size: 1rem;
+  text-align: center;
+  max-width: 80%;
+  line-height: 1.4;
 }
