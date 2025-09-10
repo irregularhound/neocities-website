@@ -8,11 +8,15 @@
     border: 2.5px dotted gray;
 }
 
+#links button {
+    width: 15%;
+}
+
 /* ==== Images ===== */
 
 /* Blinkies */
 
-.blinkies img {
+#blinkies img {
     width: 150px;
     height: 20px;
 }
@@ -20,14 +24,14 @@
 
 /* 88x31 Buttons */
 
-.buttons img {
+#buttons img {
     width: 88px;
     height: 31px;
 }
 
 /* 88x31 Buttons */
 
-.userboxes img {
+#userboxes img {
     width: 240px;
     height: 48px;
 }
