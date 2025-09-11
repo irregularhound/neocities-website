@@ -12,8 +12,7 @@
     background-color: white;
 }
 
-.btn:disabled,
-.btn-primary {
+.btn, .btn-primary {
     background-color: #ad603a !important;
     border-color: #ad603a !important
 }
