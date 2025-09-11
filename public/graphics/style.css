@@ -12,6 +12,11 @@
     width: 15%;
 }
 
+.btn-primary {
+    background-color: #ad603a !important;
+    border-color: #ad603a !important
+}
+
 /* ==== Images ===== */
 
 /* Blinkies */
