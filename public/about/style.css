@@ -9,6 +9,10 @@ main p strong {
 
 /* Graphics */
 
+#identity-pixels p {
+    font-size: 0.85em;
+}
+
 #graphics h1 {
     font-size: 1.5em;
 }
