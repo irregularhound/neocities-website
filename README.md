@@ -79,6 +79,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add Identity Pixels to About Page
 + Add marquee "Check out these other sites" 88x31 buttons under "Honorable Mentions" section in Other Websites Page
 + Add descriptions for each page in Site Map
++ Add credits page
 
 ## Changelog:
 
