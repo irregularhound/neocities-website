@@ -19,8 +19,8 @@
     margin: 0 3px;
 }
 
-#mentions a:hover {
-    transform: scale(1.15);
+#mentions a img:hover {
+    transform: scale(1.25);
 }
 
 #mentions:hover {
