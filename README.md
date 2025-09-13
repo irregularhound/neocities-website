@@ -98,3 +98,4 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + 2.0.11 - Created Graphics Page. (7/5/25)
 + 2.0.12 - Created Art and Writing Page. (7/27/25)
 + 2.0.13 - Created base code for Art galleries (9/10/25)
++ 2.0.14 - Added "Honorable Mentions" section to Websites page. (9/13/25)
