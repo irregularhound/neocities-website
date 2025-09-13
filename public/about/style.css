@@ -1,5 +1,15 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
 
+/* Header Image */
+
+#hero {
+    height: 20%;
+}
+
+#hero img {
+    object-position: 100% 45%;
+}
+
 /* Main Content */
 
 main p strong {
