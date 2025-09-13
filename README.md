@@ -81,6 +81,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add descriptions for each page in Site Map
 + Add credits page
 + Optimize menu so that it's the first thing that loads on a page
++ Reduce amount of ID selectors on each page if possible
 
 ## Changelog:
 
