@@ -75,7 +75,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add ~~collapsable and~~ "Back to Top" elements to Graphics page
 + Add Aesthetics section to character pages
 + ~~Add captions and navigation buttons to lightbox in art galleries~~
-+ Style collapsable buttons in Graphics page
++ ~~Style collapsable buttons in Graphics page~~
 + Add Identity Pixels to About Page
 + Add marquee "Check out these other sites" 88x31 buttons under "Honorable Mentions" section in Other Websites Page
 
