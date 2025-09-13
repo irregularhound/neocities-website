@@ -13,6 +13,7 @@
     white-space: nowrap;
     animation: 25s slide infinite linear;
     display: inline-block;
+    overflow-anchor: none;
 }
 
 .mentions .mentions-btn a img {
