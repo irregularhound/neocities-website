@@ -1,9 +1,39 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
 
-#links h2 {
+#links h3 {
     font-size: 1.5em;
 }
 
 #links hr {
     border: 2.5px dotted gray;
+}
+
+#mentions {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: 30s slide infinite linear;
+    display: inline-block;
+}
+
+#mentions a img {
+    margin: 0 3px;
+}
+
+#mentions a img:hover {
+    transform: scale(1.15);
+   
+}
+
+#mentions:hover {
+    animation-play-state:paused;
+}
+
+@keyframes slide {
+    from {
+        transform: translateX(110%)
+    }
+
+    to {
+        transform: translateX(-10%)
+    }
 }
