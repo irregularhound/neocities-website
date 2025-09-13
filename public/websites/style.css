@@ -8,23 +8,23 @@
     border: 2.5px dotted gray;
 }
 
-#mentions {
+.mentions {
     overflow: hidden;
     white-space: nowrap;
-    animation: 20s slide infinite linear;
+    animation: 25s slide infinite linear;
     display: inline-block;
 }
 
-#mentions a img {
-    margin: 0 3px;
+.mentions .mentions-btn a img {
+    margin: 0 5px;
 }
 
-#mentions a img:hover {
-    transform: scale(1.25);
+.mentions .mentions-btn:hover a img {
+    transform: scale(1.2);
 }
 
-#mentions:hover {
-    animation-play-state:paused;
+.mentions:has(.mentions-btn:hover){
+    animation-play-state: paused;
 }
 
 @keyframes slide {
@@ -33,6 +33,6 @@
     }
 
     to {
-        transform: translateX(-10%)
+        transform: translateX(-50%)
     }
 }
