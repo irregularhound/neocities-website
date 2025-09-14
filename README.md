@@ -82,7 +82,8 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add credits page
 + Optimize menu so that it's the first thing that loads on a page
 + Reduce amount of ID selectors on each page if possible
-+ Re-Do Art Gallery hub (make links to pages the images instead of the year, possibly put year on top of the image as well)
++ ~~Re-Do Art Gallery hub (make links to pages the images instead of the year, possibly put year on top of the image as well)~~
++ Add footers and header with year and description in Art Gallery pages
 
 ## Changelog:
 
