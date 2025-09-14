@@ -84,6 +84,7 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Reduce amount of ID selectors on each page if possible
 + ~~Re-Do Art Gallery hub (make links to pages the images instead of the year, possibly put year on top of the image as well)~~
 + Add footers and header with year and description in Art Gallery pages
++ Add "website last updated" part to home page
 
 ## Changelog:
 
