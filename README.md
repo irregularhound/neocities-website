@@ -85,6 +85,8 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + ~~Re-Do Art Gallery hub (make links to pages the images instead of the year, possibly put year on top of the image as well)~~
 + Add footers and header with year and description in Art Gallery pages
 + Add "website last updated" part to home page
++ resize width of buttons on Graphics page so that they aren't clipped on mobile
++ add disclaimers about what the website does on home page. in particular, warn about cookies and slow loading and javascript and lack of mobile optimization 
 
 ## Changelog:
 
