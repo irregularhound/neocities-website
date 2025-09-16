@@ -1,25 +1,45 @@
-body{
+html,
+body {
+    height: 100%;
+}
+
+
+body {
     background-image: url(https://bibliohound.neocities.org/images/background/background.webp);
     background-size: cover;
+    display: flex;
+    flex-direction: column;
 }
 
-h1{
+.container-xxl {
+    flex: 1;
+    /* makes it stretch to fill the viewport height */
+    display: flex;
+    flex-direction: column;
+}
+
+.row.full-height {
+  flex: 1;
+  display: flex;
+}
+
+h1 {
     font-family: "Fredericka the Great";
 }
 
-h2{
+h2 {
     font-family: "Fredericka the Great";
 }
 
-h3{
+h3 {
     font-family: "Fredericka the Great";
 }
 
-h4{
+h4 {
     font-family: "Fredericka the Great";
 }
 
-h5{
+h5 {
     font-family: "Fredericka the Great";
 }
 
@@ -37,12 +57,12 @@ main {
     overflow-y: hidden;
 }
 
-#board{ 
+#board {
     background-image: url(https://bibliohound.neocities.org/images/background/corkboard.jpg);
     border-radius: 5px;
 }
 
-#paper{
+#paper {
     background-color: cornsilk;
     overflow-y: auto;
     overflow-x: hidden;
@@ -53,7 +73,7 @@ main {
         height: auto;
         overflow-y: scroll;
     }
-    
+
     main {
         height: 85%;
     }
