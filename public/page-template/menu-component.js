@@ -15,15 +15,16 @@ class MenuComponent extends HTMLElement {
             <style>
                 body, html {
                     width: 100%;
-                    overflow-x: hidden;
+                    overflow-y: hidden;
                 }
 
                 .image-links {
                     display: flex;
-                    flex-direction: column;
+                    flex-direction: row;
                     row-gap: 25px;
                     width: 100%;
-                    overflow-y: scroll;
+                    overflow-y: hidden;
+                    overflow-x: auto;
                     align-items: center;  
                 }
 
@@ -41,7 +42,6 @@ class MenuComponent extends HTMLElement {
 
                 @media only all and (max-device-width: 991px) {
                     .image-links {
-                        flex-direction: row;
                         gap: 15vw;
                         width: 100%;
                         margin-right: 10vw;
