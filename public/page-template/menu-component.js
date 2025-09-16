@@ -21,7 +21,7 @@ class MenuComponent extends HTMLElement {
                 .image-links {
                     display: flex;
                     flex-direction: row;
-                    column-gap: 25px;
+                    column-gap: 10vw;
                     width: 100%;
                     overflow-y: hidden;
                     overflow-x: auto;
