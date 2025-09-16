@@ -25,7 +25,8 @@ class MenuComponent extends HTMLElement {
                     width: 100%;
                     overflow-y: hidden;
                     overflow-x: auto;
-                    align-items: center;  
+                    align-items: center; 
+                    justify-content: center;
                 }
 
                 .image-links > a {
