@@ -6,6 +6,7 @@ html, body {
   min-height: 100vh;       /* fills screen if short */
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 
 .row.full-height {
