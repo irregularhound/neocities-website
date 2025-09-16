@@ -1,28 +1,23 @@
-html,
-body {
-    height: 100%;
-}
-
-
-body {
-    background-image: url(https://bibliohound.neocities.org/images/background/background.webp);
-    background-size: cover;
-    display: flex;
-    flex-direction: column;
+html, body {
+  height: 100%;
 }
 
 .container-xxl {
-    flex: 1;
-    /* makes it stretch to fill the viewport height */
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+  min-height: 100vh;       /* fills screen if short */
+  display: flex;
+  flex-direction: column;
 }
 
 .row.full-height {
-  flex: 1;
+  flex: 1;                 /* row stretches to fill container */
   display: flex;
 }
+
+.row.full-height > [class*="col-"] {
+  display: flex;
+  flex-direction: column;  /* make each col stretch */
+}
+
 
 h1 {
     font-family: "Fredericka the Great";
