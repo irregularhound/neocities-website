@@ -46,12 +46,12 @@
 
 /* Goodies */
 
-.row #goodies {
+.row .goodies {
     background-color: #b3987f;
     height: 100%;
 }
 
-#goodies h2 {
+.goodies h2 {
     font-size: 1.2em;
 }
 
