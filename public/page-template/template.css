@@ -5,7 +5,7 @@ html, body {
 .container-xxl {
   min-height: 100vh;       /* fills screen if short */
   display: flex;
-  flex-direction: column;
+  flex-direction: row ;
 }
 
 .row.full-height {

@@ -50,7 +50,6 @@ class MenuComponent extends HTMLElement {
 
                     .image-links > a > img {
                         max-width: 18vw;
-                        overflow-y: hidden;
                         overflow-x: auto;
                     }
                 }
