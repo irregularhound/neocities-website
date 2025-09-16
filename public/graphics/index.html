@@ -319,7 +319,10 @@
                             </div>
                         </div>
                         <hr>
-                        <a class="btn btn-primary" type="button" href="#top">Back to Top</a>
+                        <a class="btn btn-primary" href="#" 
+   onclick="window.scrollTo({ top: 0, behavior: 'smooth' }); return false;">
+   Back to Top
+</a>
                         <hr>
                         <footer class="text-center">
                             <p>Wildcat © 2023 - 2025 | Hosted by <a href="https://neocities.org/">Neocities</a></p>
@@ -333,12 +336,4 @@
         integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq"
         crossorigin="anonymous"></script>
 </body>
-<script>
-    window.addEventListener("hashchange", function () {
-        if (location.hash === "#top") {
-            history.replaceState(null, "", location.pathname + location.search);
-        }
-    });
-</script>
-
 </html>
