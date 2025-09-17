@@ -28,7 +28,7 @@ main p strong {
 }
 
 #userboxes img {
-    width: 40%;
+    width: 30%;
 }
 
 @media only all and (max-device-width: 991px) {
