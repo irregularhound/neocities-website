@@ -8,8 +8,15 @@
 
 /* Grid */
 
-.grid-item {
+@media all and (min-width: 993px) {
+    .grid-item .row {
+        height: 22em;
+    }
+}
+
+.grid-description {
     background-color: white;
+
 }
 
 .btn:disabled,
@@ -19,10 +26,10 @@
 }
 
 .warning img {
-    width: 5%;
+    width: 2em;
 }
 
-@media all and (max-width: 992px) {
+@media all and (max-width: 991px) {
     .warning img {
         width: 1.75em;
     }
