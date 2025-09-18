@@ -86,7 +86,8 @@ This is a recreation of my old one. Credit to [Bret Comnes](https://github.com/b
 + Add footers and header with year and description in Art Gallery pages
 + Add "website last updated" part to home page
 + resize width of buttons on Graphics page so that they aren't clipped on mobile
-+ add disclaimers about what the website does on home page. in particular, warn about cookies and slow loading and javascript and lack of mobile optimization 
++ add disclaimers about what the website does on home page. in particular, warn about cookies and slow loading and javascript and lack of mobile optimization
++ Create unfiction Wikipedia page about Conrad (as a notable criminal from the 1950s, elaborated on in Ronnie's graphic novel autobiography - a hit in the 80s - 90s.)
 
 ## Changelog:
 
