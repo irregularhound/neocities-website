@@ -4,8 +4,6 @@
     object-position: 100% 0% /* insert custom value here */;
 }
 
-#pagedoll img {
-    bottom: 0.5em;
-    right: 0;
-    width: 6%
+.pagedoll img {
+    width: 6%;
 }

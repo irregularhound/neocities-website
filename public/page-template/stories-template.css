@@ -31,3 +31,16 @@
         width: 30%;
     }
 }
+
+.pagedoll {
+    position: fixed;
+    bottom: 0.25em;
+    right: 0.25em;
+}
+
+.pagedoll img {
+    position: fixed;
+    bottom: 0.25em;
+    right: 0.25em;
+    z-index: 5;
+}

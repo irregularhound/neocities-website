@@ -10,8 +10,6 @@
 }
 }
 
-#pagedoll img {
-    bottom: 0;
-    right: 0;
-    width: 8.5%
+.pagedoll img {
+    width: 8.5%;
 }
