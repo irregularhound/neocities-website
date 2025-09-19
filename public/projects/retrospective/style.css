@@ -8,8 +8,16 @@
     border: 2.5px dotted gray;
 }
 
+.pagedoll {
+    position: fixed;
+    bottom: 0.25em;
+    right: 0.25em;
+}
+
 .pagedoll img {
-    bottom: 0;
-    right: 10%;
-    width: 7%
+    width: 7.5%;
+    position: fixed;
+    bottom: 0.25em;
+    right: 0.25em;
+    z-index: 5;
 }
