@@ -1,1 +1,8 @@
 @import url(https://bibliohound.neocities.org/page-template/template.css);
+
+
+.btn:disabled,
+.btn-primary {
+    background-color: #ad603a !important;
+    border-color: #ad603a !important
+}
