@@ -1,1 +1,6 @@
-@import url(https://bibliohound.neocities.org/page-template/template.css);
+@import url(https://bibliohound.neocities.org/page-template/stories-template.css);
+
+#hero img {
+    object-position: 100% 30% /* Insert custom vertical value here */;
+}
+
